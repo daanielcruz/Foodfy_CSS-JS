@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/danielfercruz/">
     <img alt="Made by daanielcruz" src="https://img.shields.io/badge/made%20by-daanielcruz-%2304D361">
   </a>
-  
-      ![](foodfy.gif)
+ 
+    
 </p>
 
 
@@ -16,7 +16,7 @@
 Foodfy is a simple platform that i created to train some technologyes, following a challenge proposed by Rocketseat!  :rocket:
 
  
-    
+    ![github](https://s7.gifyu.com/images/foodfy.gif)
 
 
 
