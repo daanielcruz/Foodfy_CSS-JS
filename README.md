@@ -11,7 +11,7 @@
     
 ## What's Foodfy?
 
-Foodfy is a simple platform that i created to train some technologyes, following a challenge proposed by Rocketseat!  :rocket:
+Foodfy is a simple platform that i created to train some technologies, following a challenge proposed by Rocketseat!  :rocket:
 
  
 <h1 align="center">
